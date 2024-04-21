@@ -53,6 +53,10 @@ testPage:
     url: /it
     img: /images/logos/touxiang.jpg
     description: it 导航测试
+  - name: pdf 导航
+    url: /pdf
+    img: /images/logos/touxiang.jpg
+    description: pdf 导航测试
 devTools:
   - name: Github
     url: https://github.com/
